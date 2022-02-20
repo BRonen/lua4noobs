@@ -1,0 +1,5 @@
+- [Documentação luarocks](https://github.com/luarocks/luarocks/wiki/Documentation)
+- [Documentação luarocks](https://github.com/luarocks/luarocks/wiki/Documentation)
+- [Documentação luarocks](https://github.com/luarocks/luarocks/wiki/Documentation)
+- [Documentação luarocks](https://github.com/luarocks/luarocks/wiki/Documentation)
+- [Documentação luarocks](https://github.com/luarocks/luarocks/wiki/Documentation)
