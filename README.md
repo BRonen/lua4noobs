@@ -37,15 +37,24 @@
 ## ROADMAP
 
 ### 1. Introdução
-  1. [Introdução](/Introducao/introducao.md)
+  0. [Introdução](/introducao.md)
 
 ### 2. Configuração de Ambiente
-  1. [Dicas gerais](/Ambiente/dicas-gerais.md)
-  2. [Ambiente Linux](/Ambiente/linux.md)
+  0. [Dicas gerais](/Ambiente/dicas-gerais.md)
+  1. [Ambiente Linux](/Ambiente/linux.md)
+  2. [Ambiente MacOS](/Ambiente/macos.md)
   3. [Ambiente Windows](/Ambiente/windows.md)
-  4. [Ambiente MacOS](/Ambiente/macos.md)
   
 ### 3. Módulo Básico
+  0. [Hello World](/Basico/hello-world.md)
+  1. [Variáveis](/Basico/variaveis.md)
+  2. [Operadores](/Basico/operadores.md)
+  3. [Estruturas condicionais](/Basico/condicionais.md)
+  4. [Laços de repetição](/Basico/condicionais.md)
+  5. [Funções](/Basico/funcoes.md)
+  6. [Tabelas](/Basico/tabelas.md)
+
+### 4. Módulo Intermediário
 
 
 <!-- CONTRIBUTING -->
