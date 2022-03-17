@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/header_4noobs.svg">
+    <img src="https://github.com/BRonen/lua4noobs/blob/main/.github/header_4noobs.svg">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Lua4noobs</h2>
 
-  <h1 align="center"><img src="../.github/lua.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="https://github.com/BRonen/lua4noobs/blob/main/.github/lua.svg" alt="Imagem da linguagem" width="120"></h1>
 
   <p align="center">Tutorial De Lua para iniciantes na Linguagem.</p>
 
@@ -78,6 +78,6 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
+    <img src="https://github.com/BRonen/lua4noobs/blob/main/.github/footer_4noobs.svg" width="380">
   </a>
 </p>
