@@ -37,22 +37,22 @@
 ## ROADMAP
 
 ### 1. Introdução
-  0. [Introdução](/introducao.md)
+  1. [Introdução](/introducao.md)
 
 ### 2. Configuração de Ambiente
-  0. [Dicas gerais](/Ambiente/dicas-gerais.md)
-  1. [Ambiente Linux](/Ambiente/linux.md)
-  2. [Ambiente MacOS](/Ambiente/macos.md)
-  3. [Ambiente Windows](/Ambiente/windows.md)
+  1. [Dicas gerais](/Ambiente/dicas-gerais.md)
+  2. [Ambiente Linux](/Ambiente/linux.md)
+  3. [Ambiente MacOS](/Ambiente/macos.md)
+  4. [Ambiente Windows](/Ambiente/windows.md)
   
 ### 3. Módulo Básico <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
-  0. [Hello World](/Basico/hello-world.md)
-  1. [Variáveis](/Basico/variaveis.md)
-  2. [Operadores](/Basico/operadores.md)
-  3. [Estruturas condicionais](/Basico/condicionais.md)
-  4. [Laços de repetição](/Basico/condicionais.md)
-  5. [Funções](/Basico/funcoes.md)
-  6. [Tabelas](/Basico/tabelas.md)
+  1. [Hello World](/Basico/hello-world.md)
+  2. [Variáveis](/Basico/variaveis.md)
+  3. [Operadores](/Basico/operadores.md)
+  4. [Estruturas condicionais](/Basico/condicionais.md)
+  5. [Laços de repetição](/Basico/condicionais.md)
+  6. [Funções](/Basico/funcoes.md)
+  7. [Tabelas](/Basico/tabelas.md)
 
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
 
