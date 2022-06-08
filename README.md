@@ -50,7 +50,7 @@
   2. [Variáveis](/Basico/variaveis.md)
   3. [Operadores](/Basico/operadores.md)
   4. [Estruturas condicionais](/Basico/condicionais.md)
-  5. [Laços de repetição](/Basico/condicionais.md)
+  5. [Laços de repetição](Basico/lacos-repeticao.md)
   6. [Funções](/Basico/funcoes.md)
   7. [Tabelas](/Basico/tabelas.md)
 
