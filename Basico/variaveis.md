@@ -45,8 +45,8 @@ Até agora só lidamos com dois tipos de dados dentro dos nossos códigos, dentr
 |  [boolean](/Basico/tipos/boolean-nil.md)  | Verdadeiro ou falso         |
 |  [nil](/Basico/tipos/boolean-nil.md)      | Representa um valor vazio   |
 |  [string](/Basico/tipos/string.md)        | Conjunto de texto           |
-|  [function](/Basico/function.md)          | Trecho de código            |
-|  [table](/Basico/tables.md)               | Conjunto de variáveis       |
+|  [function](/Basico/funcoes.md)          | Trecho de código            |
+|  [table](/Basico/tabelas.md)               | Conjunto de variáveis       |
 
 Por enquanto não recomendo travar muito tentando entender como cada tipo funciona pois veremos com calma ao longo de outros temas e você poderá voltar aqui e ler sobre cada um pra entender melhor.
 
