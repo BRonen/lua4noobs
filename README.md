@@ -53,6 +53,7 @@
   5. [Laços de repetição](Basico/lacos-repeticao.md)
   6. [Funções](/Basico/funcoes.md)
   7. [Tabelas](/Basico/tabelas.md)
+      - [Arrays](/Basico/tabelas/arrays.md)
 
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
 
