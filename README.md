@@ -54,6 +54,7 @@
   6. [Funções](/Basico/funcoes.md)
   7. [Tabelas](/Basico/tabelas.md)
       - [Arrays](/Basico/tabelas/arrays.md)
+      - [Dicionários](/Basico/tabelas.md#dicionario)
 
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
 
