@@ -17,8 +17,13 @@ Usar tabelas como arrays é incrivelmente simples, separei em uma página própr
 
 > [Arrays](/Basico/tabelas/arrays.md)
 
+<br/>
 
-## Dicionário
+<div class="dicionario">
+
+  ## Dicionário
+
+</div>
 
 Tabelas também podem ser usadas pra salvar valores em índices que não são apenas números, basicamente qualquer tipo de dado pode ser usado como indíce menos o Nil.
 
