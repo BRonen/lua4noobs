@@ -57,7 +57,7 @@
       - [Dicionários](/Basico/tabelas.md#dicionario)
 
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
-
+  1. [Metatables](/Intermediario/metatables.md)
 
 <!-- CONTRIBUTING -->
 
