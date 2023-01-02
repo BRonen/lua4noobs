@@ -45,7 +45,7 @@
   3. [Ambiente MacOS](/Ambiente/macos.md)
   4. [Ambiente Windows](/Ambiente/windows.md)
   
-### 3. Módulo Básico <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
+### 3. Módulo Básico
   1. [Hello World](/Basico/hello-world.md)
   2. [Variáveis](/Basico/variaveis.md)
   3. [Operadores](/Basico/operadores.md)
@@ -58,6 +58,7 @@
 
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
   1. [Metatables](/Intermediario/metatables.md)
+  2. [OOP](/Intermediario/OOP.md)
 
 <!-- CONTRIBUTING -->
 
