@@ -54,3 +54,6 @@ Tabelas também podem ser usadas pra salvar valores em índices que não são ap
 > dict[anotherTable] --table
 'another table'
 ```
+
+Próximo: 
+- [Variáveis](/Intermediario/metatables.md)
