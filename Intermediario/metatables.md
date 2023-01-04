@@ -4,6 +4,8 @@ Começando a entrar mais nas individualidades de Lua chegamos no assunto de Meta
 
 Metatables são tabelas que ajudam a controlar o comportamento de outras tabelas. Conseguimos desde alterar o comportamento de certos operadores até adicionar valores padrões para indices novos e muito mais.
 
+### Lista de meta métodos
+
 | Índice     | Comportamento                                                |
 |------------|--------------------------------------------------------------|
 | __add      | Executa sempre que o operador de soma "+" é chamado          |
@@ -21,8 +23,6 @@ Metatables são tabelas que ajudam a controlar o comportamento de outras tabelas
 | __len      | Executa sempre que o operador "#" é chamado                  |
 | __newindex | Executa sempre que um novo indice é acessado                 |
 | _index     | Executa sempre que um indice declarado é acessado            |
-
-...
 
 Próximo: 
 - [Variáveis](/Intermediario/OOP.md)
