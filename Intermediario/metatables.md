@@ -6,23 +6,23 @@ Metatables são tabelas que ajudam a controlar o comportamento de outras tabelas
 
 ## Lista de meta métodos
 
-| Índice                | Comportamento                                                |
-|-----------------------|--------------------------------------------------------------|
-| [__add](#aritmetica)| Executa sempre que o operador de soma "+" é chamado          |
-| [__sub](aritmetica)| Executa sempre que o operador de subtração "-" é chamado     |
-| [__mul](aritmetica)| Executa sempre que o operador de multiplicação "*" é chamado |
-| [__div](aritmetica)| Executa sempre que o operador de divisão "/" é chamado      |
-| [__mod](aritmetica)| Executa sempre que o operador de módulo "%" é chamado        |
-| __unm                 | Executa sempre que o operador de unário "-" é chamado        |
-| __concat              | Executa sempre que o operador de concatenação ".." é chamado |
-| __eq                  | Executa sempre que o operador de comparação "==" é chamado   |
-| __it                  | Executa sempre que o operador de comparação "<" é chamado    |
-| __le                  | Executa sempre que o operador de comparação "<=" é chamado   |
-| __call                | Executa sempre que a tabela é chamada como função "table()"  |
-| __tostring            | Executa sempre que é chamado a função tostring() é chamada   |
-| __len                 | Executa sempre que o operador "#" é chamado                  |
-| __newindex            | Executa sempre que um novo indice é acessado                 |
-| _index                | Executa sempre que um indice declarado é acessado            |
+| Índice                   | Comportamento                                                |
+|--------------------------|--------------------------------------------------------------|
+| [__add](aritmetica)      | Executa sempre que o operador de soma "+" é chamado          |
+| [__sub](aritmetica)      | Executa sempre que o operador de subtração "-" é chamado     |
+| [__mul](aritmetica)      | Executa sempre que o operador de multiplicação "*" é chamado |
+| [__div](aritmetica)      | Executa sempre que o operador de divisão "/" é chamado      |
+| [__mod](aritmetica)      | Executa sempre que o operador de módulo "%" é chamado        |
+| [__unm](unario)          | Executa sempre que o operador unário "-" é chamado        |
+| [__concat](concatenação) | Executa sempre que o operador de concatenação ".." é chamado |
+| [__eq](comparação)       | Executa sempre que o operador de comparação "==" é chamado   |
+| [__it](comparação)       | Executa sempre que o operador de comparação "<" é chamado    |
+| [__le](comparação)       | Executa sempre que o operador de comparação "<=" é chamado   |
+| [__call](call)           | Executa sempre que a tabela é chamada como função "table()"  |
+| [__tostring](conversao)  | Executa sempre que é chamado a função tostring() é chamada   |
+| [__len](tamanho)         | Executa sempre que o operador "#" é chamado                  |
+| [__newindex](novo)       | Executa sempre que um novo indice é acessado                 |
+| [_index](indice)         | Executa sempre que um indice declarado é acessado            |
 
 <div id="aritmetica">
     
