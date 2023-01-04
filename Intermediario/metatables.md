@@ -39,10 +39,10 @@ setmetatable(obj, {
         return a.value + b
     end
 })
-print(obj1 + 3)
+print(obj + 3)
 ```
 
-Nesse código criamos duas tabelas e definimos o comportamento que a primeira tabela deve ter quando for somada a outro valor, e nesse caso somamos o valor com a propriedade "value" dessa tabela.
+Nesse código criamos uma tabela e definimos o comportamento que deve ter quando for somada a outro valor, e nesse caso somamos o valor com a propriedade "value" dessa tabela e retornamos o resultado da soma.
 
 ```
 5
