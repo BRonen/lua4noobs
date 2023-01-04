@@ -8,11 +8,11 @@ Metatables são tabelas que ajudam a controlar o comportamento de outras tabelas
 
 | Índice                | Comportamento                                                |
 |-----------------------|--------------------------------------------------------------|
-| [__add]('#aritmetica')| Executa sempre que o operador de soma "+" é chamado          |
-| [__sub]('#aritmetica')| Executa sempre que o operador de subtração "-" é chamado     |
-| [__mul]('#aritmetica')| Executa sempre que o operador de multiplicação "*" é chamado |
-| [__div]('#aritmetica')| Executa sempre que o operador de divisão "/" é chamado      |
-| [__mod]('#aritmetica')| Executa sempre que o operador de módulo "%" é chamado        |
+| [__add](#aritmetica)| Executa sempre que o operador de soma "+" é chamado          |
+| [__sub](aritmetica)| Executa sempre que o operador de subtração "-" é chamado     |
+| [__mul](aritmetica)| Executa sempre que o operador de multiplicação "*" é chamado |
+| [__div](aritmetica)| Executa sempre que o operador de divisão "/" é chamado      |
+| [__mod](aritmetica)| Executa sempre que o operador de módulo "%" é chamado        |
 | __unm                 | Executa sempre que o operador de unário "-" é chamado        |
 | __concat              | Executa sempre que o operador de concatenação ".." é chamado |
 | __eq                  | Executa sempre que o operador de comparação "==" é chamado   |
@@ -31,6 +31,7 @@ Metatables são tabelas que ajudam a controlar o comportamento de outras tabelas
 </div>
 
 Sempre que definimos esses métodos, eles são chamados quando executamos seus respectivos operadores. Por exemplo
+
 ```lua
 local obj = { value = 2 }
 setmetatable(obj, {
@@ -40,10 +41,13 @@ setmetatable(obj, {
 })
 print(obj1 + 3)
 ```
+
 Nesse código criamos duas tabelas e definimos o comportamento que a primeira tabela deve ter quando for somada a outro valor, e nesse caso somamos o valor com a propriedade "value" dessa tabela.
+
 ```
 5
 ```
+
 Esse comportamento pode ser replicado para qualquer operador aritmético da lista.
 
 Próximo: 
