@@ -50,5 +50,31 @@ Nesse código criamos uma tabela e definimos o comportamento que deve ter quando
 
 Esse comportamento pode ser replicado para qualquer operador aritmético da lista.
 
+
+<div id="unario">
+    
+## Meta método unário: __unm.
+
+</div>
+
+Quando tornamos um valor negativo pondo um "-" antes desse valor, esse meta método é chamado para retornar algo do mesmo jeito que números retornam seu próprio valor com sinal invertido.
+
+```lua
+local obj = { value = 2 }
+setmetatable(obj, {
+    __unm = function(a, b)
+        return a.value * -2
+    end
+})
+print(-obj)
+```
+
+Nesse código criamos uma tabela com um comportamento para que quando executamos o operador unário "-", seja retornado seu valor multiplicado por -2.
+
+```
+-4
+```
+
+
 Próximo: 
 - [Variáveis](/Intermediario/OOP.md)
