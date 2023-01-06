@@ -76,5 +76,29 @@ Nesse código criamos uma tabela com um comportamento para que quando executamos
 ```
 
 
+<div id="concatenação">
+    
+## Meta método concatenação: __concat.
+
+</div>
+
+Quando usamos o operador ".." geralmente estamos tentando unir duas strings em uma só. Mas sempre que isso é feito com uma tabela, esse meta método é chamado para controlar o comportamento que essa tabela deve ter.
+
+```lua
+local obj = { value = "Lorem" }
+setmetatable(obj, {
+    __concat = function(a, b)
+        return string.reverse(a.value .. " " .. b)
+    end
+})
+print(obj .. "Ipsum")
+```
+
+Nesse código criamos uma tabela com um comportamento para que quando executamos o operador de concatenação "..", seja retornado seu valor concatenado e invertido.
+
+```
+muspI meroL
+```
+
 Próximo: 
 - [Variáveis](/Intermediario/OOP.md)
