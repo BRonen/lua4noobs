@@ -1,11 +1,3 @@
-<!-- Logo 4noobs -->
-
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="https://github.com/BRonen/lua4noobs/blob/main/.github/header_4noobs.svg">
-  </a>
-</p>
-
 <!-- Title -->
 
 <p align="center">
@@ -19,16 +11,6 @@
     <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
     </a>
-  </p>
-
-  <p align="center">
-    <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
-    <br />
-    <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
-    ·
-    <a href="link-para-abrir-issue">Request Feature</a>
   </p>
 </p>
 
@@ -59,28 +41,3 @@
 ### 4. Módulo Intermediário <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-Em%20desenvolvimento-blue">
   1. [Metatables](/Intermediario/metatables.md)
   2. [OOP](/Intermediario/OOP.md)
-
-<!-- CONTRIBUTING -->
-
-## Como Contribuir
-
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
-
-1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
-3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
-4. Realize o Push no Branch (`git push origin feature/featureBraba`)
-5. Abra um Pull Request
-
-## Autores
-
-- **Brenno Pereira Rodrigues** - _Nerd em tempo integral_ - [@brennokkkk](https://twitter.com/brennokkkk)
-
----
-
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="https://github.com/BRonen/lua4noobs/blob/main/.github/footer_4noobs.svg" width="380">
-  </a>
-</p>
